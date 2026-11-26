@@ -1,5 +1,5 @@
 <a href="https://github.com/alifazizi-8">
-  <img src="./assets/header.svg" width="100%" alt="Alif Azizi: Finance × Smart Contracts" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Alif Azizi: Finance × Smart Contracts" />
 </a>
 
 <h2>About me</h2>
@@ -25,12 +25,12 @@
 <h2>Featured work</h2>
 
 <a href="https://github.com/alifazizi-8/Invoice-Factoring">
-  <img src="./assets/card-invoice-factoring.svg" width="100%" alt="InvoiceFactoring: on-chain invoice factoring in Solidity" />
+  <img src="./assets/card-invoice-factoring.svg?v=2" width="100%" alt="InvoiceFactoring: on-chain invoice factoring in Solidity" />
 </a>
 
 <p>
-  <a href="https://github.com/alifazizi-8/Mock-USD"><img src="./assets/card-mockusd.svg" width="49%" alt="MockUSD: ERC-20 mock stablecoin" /></a>
-  <a href="https://github.com/alifazizi-8/FinancialModelling-1"><img src="./assets/card-financial-model.svg" width="49%" alt="Ag Growth International (TSX: AFN) financials" /></a>
+  <a href="https://github.com/alifazizi-8/Mock-USD"><img src="./assets/card-mockusd.svg?v=2" width="49%" alt="MockUSD: ERC-20 mock stablecoin" /></a>
+  <a href="https://github.com/alifazizi-8/FinancialModelling-1"><img src="./assets/card-financial-model.svg?v=2" width="49%" alt="Ag Growth International (TSX: AFN) financials" /></a>
 </p>
 
 <!--
